@@ -9,4 +9,4 @@ Supports basic arithmetic operations (addition, subtraction, multiplication, div
 - Keyboard input support (optional)
 
 ## Live Demo
-[View on GitHub Pages](https://navya-vatsyayana.github.io/calculator)
+https://github.com/navya-vatsyayana/calculator.git
